@@ -7,9 +7,6 @@
    Description: Easy to read. Pandoc style elements.
 */
 
-
-
-
 html {
     font-size: 100%;
 }
@@ -48,8 +45,6 @@ body {
     max-width: 44rem;
     display: block;
 }
-
-
 
 h1, h2, h3, dt {
     color: #423F37;
