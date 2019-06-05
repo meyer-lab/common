@@ -230,7 +230,7 @@ max-bool-expr=5
 max-branches=12
 
 # Maximum number of locals for function / method body
-max-locals=15
+max-locals=20
 
 # Maximum number of parents for a class (see R0901).
 max-parents=7
@@ -283,6 +283,5 @@ known-third-party=enchant
 
 [EXCEPTIONS]
 
-# Exceptions that will emit a warning when being caught. Defaults to
-# "Exception"
+# Exceptions that will emit a warning when being caught. Defaults to "Exception"
 overgeneral-exceptions=Exception
