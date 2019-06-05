@@ -183,8 +183,7 @@ allow-global-unused-variables=yes
 # name must start or end with one of those strings.
 callbacks=cb_,_cb
 
-# A regular expression matching the name of dummy variables (i.e. expectedly
-# not used).
+# A regular expression matching the name of dummy variables (i.e. expectedly not used).
 dummy-variables-rgx=_+$|(_[a-zA-Z0-9_]*[a-zA-Z0-9]+?$)|dummy
 
 # Argument names that match this expression will be ignored. Default to name
@@ -218,7 +217,7 @@ valid-metaclass-classmethod-first-arg=mcs
 [DESIGN]
 
 # Maximum number of arguments for function / method
-max-args=5
+max-args=6
 
 # Maximum number of attributes for a class (see R0902).
 max-attributes=7
