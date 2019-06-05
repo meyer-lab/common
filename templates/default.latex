@@ -1,7 +1,9 @@
 \documentclass[12pt]{article}
 
 \usepackage{amssymb, amsmath, mathtools, color, fontspec}
-\usepackage{ifxetex, ifluatex, microtype, setspace}
+\usepackage{ifxetex, ifluatex, microtype, setspace, lineno}
+
+\linenumbers
 
 \setsansfont{Roboto}
 \setmainfont{Roboto}
