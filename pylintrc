@@ -12,10 +12,6 @@ ignore=CVS, model.cpp, model.hpp, main.cpp ckine.so
 # regex matches against base names, not paths.
 ignore-patterns=
 
-# Python code to execute, usually for sys.path manipulation such as
-# pygtk.require().
-#init-hook=
-
 # Use multiple processes to speed up Pylint.
 jobs=2
 
