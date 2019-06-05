@@ -15,15 +15,8 @@ ignore-patterns=
 # Use multiple processes to speed up Pylint.
 jobs=2
 
-# List of plugins (as comma separated values of python modules names) to load,
-# usually to register additional checkers.
-load-plugins=
-
 # Pickle collected data for later comparisons.
 persistent=yes
-
-# Specify a configuration file.
-#rcfile=
 
 # Allow loading of arbitrary C extensions. Extensions are imported into the
 # active Python interpreter and may run arbitrary code.
