@@ -19,6 +19,8 @@ def svg_to_any(key, value, fmt, meta):
             base_name, _ = splitext(src)
             eps_name = base_name + "." + option[1]
             return Image(attrs, alt, [eps_name, title])
+        else:
+            return value
 
 
 if __name__ == "__main__":
