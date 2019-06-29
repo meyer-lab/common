@@ -20,7 +20,7 @@ def svg_to_any(key, value, fmt, meta):
             eps_name = base_name + "." + option[1]
             return Image(attrs, alt, [eps_name, title])
         else:
-            return value
+            return Image(attrs, alt, [src, title])
 
 
 if __name__ == "__main__":
