@@ -1,12 +1,12 @@
-\documentclass[12pt]{article}
+\documentclass[11pt]{article}
 
 \usepackage{amssymb, amsmath, mathtools, color, fontspec, bm}
 \usepackage{ifxetex, ifluatex, microtype, setspace, lineno}
 
 \linenumbers
 
-\setsansfont{Roboto}
-\setmainfont{Roboto}
+\setsansfont{DejaVuSans}
+\setmainfont{DejaVuSans}
 
 \linespread{1.5}
 
