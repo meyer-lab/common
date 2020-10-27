@@ -8,7 +8,7 @@
 \setsansfont{DejaVuSans}
 \setmainfont{DejaVuSans}
 
-\linespread{1.5}
+\linespread{1.2}
 
 \usepackage[affil-it]{authblk}
 
