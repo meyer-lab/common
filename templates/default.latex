@@ -1,4 +1,4 @@
-\documentclass[11pt]{article}
+\documentclass[10pt]{article}
 
 \usepackage{amssymb, amsmath, mathtools, color, fontspec, bm}
 \usepackage{ifxetex, ifluatex, microtype, setspace, lineno}
@@ -8,7 +8,7 @@
 \setsansfont{DejaVuSans}
 \setmainfont{DejaVuSans}
 
-\linespread{1.2}
+\linespread{1.1}
 
 \usepackage[affil-it]{authblk}
 
