@@ -5,7 +5,7 @@ filters:
 - pandoc-eqnos
 - pandoc-tablenos
 - pandoc-manubot-cite
-citeproc: true
+- pandoc-citeproc
 wrap: preserve
 metadata:
   csl: common/templates/nature.csl
